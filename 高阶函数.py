@@ -127,4 +127,3 @@ int2 = functools.partial(int,base = 2)
 print(int2("100000"))
 print(int2("143",base = 10))
 
-
