@@ -20,3 +20,13 @@ def test():
 		print("Too many arguments")
 if __name__ == "__main__":
 	test()
+
+
+'下边是测试代码'
+
+class Hellow(object):
+
+    def hellow(self,name = "world"):
+        print('hellow ,',name)
+
+
